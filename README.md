@@ -9,7 +9,7 @@ For examples how to use, please refer to the examples folder.
 ```
 module "keys" {
 
-  source = "jason-morsley/keys/aws"
+  source = "jason-morsley/aws-keys"
 
   name = "example"
 
