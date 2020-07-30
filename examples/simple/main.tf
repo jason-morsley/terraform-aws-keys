@@ -17,8 +17,4 @@ module "keys" {
 
   folder = "keys"
 
-  //  tags = {
-  //    Terraform = "true"
-  //  }
-
 }
